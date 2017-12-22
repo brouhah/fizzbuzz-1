@@ -1,0 +1,32 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Compares procedural and functional fizzbuzz programs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morphatic/fizzbuzz.git"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "procedural",
+    "functional",
+    "tdd"
+  ],
+  "author": "Morgan Benton <morgan.benton@gmail.com> (https://morphatic.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morphatic/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/morphatic/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^22.0.3"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
