@@ -1,0 +1,9 @@
+# Dueling FizzBuzzes: Is a Procedural Style or a Functional Style Better?
+
+Many interviews for programming jobs require the candidate to demonstrate their coding ability by writing on-the-spot a short program frequently called a "FizzBuzz program." In such situations, is it better to use procedural style or functional style programming? We explore that in this lesson.
+
+Jeff Atwood, one of the creators of [Stack Overflow](https://stackoverflow.com), helped make "FizzBuzz" programs famous and ubiquitous when he notoriously asked: ["Why can't programmers... program?"](https://blog.codinghorror.com/why-cant-programmers-program/) He was responding in shock to a statistic (and his own experience) that indicated over 50% of people who apply for programming jobs, have little or no ability to program, **at all**. He suggested the use of FizzBuzz programs to separate the wheat from the chaff.
+
+FizzBuzz is a children's game (or possibly a drinking game?) in which players count off starting at 1 and rotating through each player. For multiples of 3, players say "Fizz" instead of the number. For multiples of 5, they say "Buzz," and for multiples of 3 AND 5 (i.e. 15), they say "FizzBuzz." Players who hesitate or say the wrong thing are eliminated. The last player standing is the winner.
+
+A FizzBuzz program asks a programmer to turn this relatively straightforward algorithm into code. For such a short program, it may not seem like the style of programming would make that much difference. However, the results may be surprising! A programmer would do well to consider the differences and ramifications before going into the next coding interview.
